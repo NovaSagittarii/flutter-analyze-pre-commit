@@ -8,3 +8,4 @@
     entry: dart format
     language: unsupported
     files: \.dart$
+    args: [--set-exit-if-changed]
